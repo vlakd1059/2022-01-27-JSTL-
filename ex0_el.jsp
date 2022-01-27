@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- Hello World! 문구 출력  -->
+	<!-- Hello World! 문구 출력  --> 
 	<h2><%="Hello World!" %></h2>
 	<h2><% out.print("Hello World!"); %></h2>
 	<h2>${"Hello World!" }</h2>
